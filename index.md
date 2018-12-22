@@ -1,11 +1,1 @@
-<h1> Sensor testing </h1>
-<table>
-<tr>
-<th> Sensor </th>
-<th> Value </th>
-</tr>
-<tr>
-<td> Sensor 1</td>
-<td> 5.0mA </td>
-</tr>
-</table>
+<iframe src="https://player.vimeo.com/video/139564068" width="640" height="360" frameborder="0" allowfullscreen></iframe>
